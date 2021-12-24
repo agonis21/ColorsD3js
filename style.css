@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    background: #EDD2F3;
+    height: 100vh;
+    width: calc(9/16 * 100vh);
+}
